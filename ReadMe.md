@@ -11,3 +11,9 @@ fibonacci_spiral_generator/
     |                It includes the code for creating the main window, handling user input, and drawing on the canvas.
     |--- requirements.txt: needed dependicies
     └── README.md: This file can include any additional information or documentation about your project.
+
+
+
+# Begin by:
+
+`> pip install -r requirements.txt`
