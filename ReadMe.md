@@ -4,6 +4,9 @@ fibonacci_spiral_generator/
     ├── docs/
     │   ├── tkinter_documentation.md
     ├── src/
+    │   ├── images/
+    │   │   ├── fib1.png # imagesss
+    │   │   ├── fib2.png # imagesss
     │   ├── __init__.py
     │   ├── fibonacci.py           # Fibonacci spiral generation logic
     │   └── gui.py                 # Tkinter GUI implementation
