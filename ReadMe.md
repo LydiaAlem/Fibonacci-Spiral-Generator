@@ -20,3 +20,4 @@ fibonacci_spiral_generator/
 # Begin by:
 
 `> pip install -r requirements.txt`
+`> pip install pillow` --> python imaging library (PIL)
