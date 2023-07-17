@@ -45,7 +45,6 @@ different language and something that uses math:)
 ## Sample Outputs:
 <img width="998" alt="Screenshot 2023-07-17 at 4 11 56 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/6b2eb12b-4d48-477d-8441-45cdef6c41f6">
 
-<img width="998" alt="Screenshot 2023-07-17 at 4 11 56 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/c18f18f0-2712-44f7-801e-a8f1cb8f9fee">
 <img width="441" alt="Screenshot 2023-07-17 at 4 16 34 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/6b0abd26-1756-48c9-b607-ba45dfb0c612">
 
 
