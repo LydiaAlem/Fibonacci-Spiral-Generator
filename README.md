@@ -48,7 +48,3 @@ different language and something that uses math:)
 <img width="441" alt="Screenshot 2023-07-17 at 4 16 34 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/54b4d52d-2db2-48db-8a73-f2873ec673ee">
 
 <img width="999" alt="Screenshot 2023-07-17 at 4 30 42 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/7b3c11ae-653b-41ff-b46c-de659f340833">
-
-![Uploading Screenshot 2023-07-17 at 4.30.24 PM.png…]()
-
-
