@@ -33,7 +33,7 @@ different language and something that uses math:)
 
 ##### 3) Since only ONE GUI window can be open at a time, click ENTER then click onto QUIT.
 
-<img width="700" alt="Screenshot 2023-07-17 at 4 11 22 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/da98a86d-79a0-4abc-8a9e-98b6974dc234">
+<img width="698" alt="Screenshot 2023-07-17 at 4 28 45 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/fd211a80-c819-402f-8853-55f8e6827f06">
 
         
 ## Built with
