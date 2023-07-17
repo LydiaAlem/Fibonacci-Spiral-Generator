@@ -1,4 +1,4 @@
-# Fibonacci Spiral Generator!
+<img width="999" alt="Screenshot 2023-07-17 at 4 14 34 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/ea86cab7-8774-4338-a19a-3dbc7cbd54e5"># Fibonacci Spiral Generator!
         
 This python project uses GUI to display a fibonacci spiral, based on the number of spirals the user would like to generator. I completed
 a GUI project in my introduction to algorithms and data structures course (CSCI 1933), and wanted to do something similar but in a 
@@ -32,6 +32,9 @@ different language and something that uses math:)
         
 
 ## Sample Outputs:
+<img width="998" alt="Screenshot 2023-07-17 at 4 11 56 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/6b2eb12b-4d48-477d-8441-45cdef6c41f6">
 
-![Uploading Screenshot 2023-07-17 at 4.16.34 PM.png…]()
-<img width="999" alt="Screenshot 2023-07-17 at 4 14 34 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/9a2425bc-0e0c-404d-9222-e0e494ff67c4">
+<img width="998" alt="Screenshot 2023-07-17 at 4 11 56 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/c18f18f0-2712-44f7-801e-a8f1cb8f9fee">
+<img width="441" alt="Screenshot 2023-07-17 at 4 16 34 PM" src="https://github.com/LydiaAlem/Fibonacci-Spiral-Generator/assets/107647071/6b0abd26-1756-48c9-b607-ba45dfb0c612">
+
+
