@@ -1,7 +1,16 @@
-# Graphic User Interface
-# USED:
-    # 1. https://docs.python.org/3/library/tkinter.html
-    # 2. https://www.techtarget.com/whatis/definition/Fibonacci-sequence
+'''
+Graphic User Interface Program
+
+@description: this is the actual GUI interface that the user can
+              interact with!
+
+@author: Lydia Alem
+@date: July 18, 2023
+
+@sources USED:
+    1. https://docs.python.org/3/library/tkinter.html --> tkinter details
+    2. https://www.techtarget.com/whatis/definition/Fibonacci-sequence --> info on fib sequence
+'''
 
 # Necessary importers
 import math
@@ -19,7 +28,7 @@ def mainScreen():
     NO Return value
     '''
     
-    top = tk.Tk() # Create a GUI window
+    top = tk.Tk() # create a GUI window
     canvas = tk.Canvas(top, bg="#FFE9B6", height=500, width=500, name="fibonacci spiral generator") # Create a canvas
     
     # display "Welcome to the Fibonacci Spiral Generator" (1)
